@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crosses-zeroes/static/css/main.af37e6b5.css",
+    "main.js": "/crosses-zeroes/static/js/main.b7aee64d.js",
+    "index.html": "/crosses-zeroes/index.html",
+    "main.af37e6b5.css.map": "/crosses-zeroes/static/css/main.af37e6b5.css.map",
+    "main.b7aee64d.js.map": "/crosses-zeroes/static/js/main.b7aee64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af37e6b5.css",
+    "static/js/main.b7aee64d.js"
+  ]
+}
